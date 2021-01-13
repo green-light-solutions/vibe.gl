@@ -2717,49 +2717,49 @@ button.toast-close-button {
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(ProximaNovaRegular.bf9f5d50c1b928ff2143.otf) format("opentype");
+    src: url(/assets/fonts/proxima-nova/ProximaNovaRegular.otf) format("opentype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(ProximaNovaLight.ac51ad8a36d5bab6da11.otf) format("opentype");
+    src: url(/assets/fonts/proxima/ProximaNovaLight.otf) format("opentype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(ProximaNovaSemibold.f14eee643541cf03a10f.otf) format("opentype");
+    src: url(/assets/fonts/proxima/ProximaNovaSemibold.otf) format("opentype");
     font-weight: 600;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(ProximaNovaBold.72b6f2c9990bd3d37b80.otf) format("opentype");
+    src: url(/assets/fonts/proxima/ProximaNovaBold.otf) format("opentype");
     font-weight: 700;
     font-style: normal
 }
 
 @font-face {
     font-family: Europa;
-    src: url(EuropaRegular.4768e69bcfbb9f773f97.ttf) format("truetype");
+    src: url(/assets/fonts/europa/EuropaRegular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: Europa;
-    src: url(EuropaLight.2b1de801a334b653f9a5.ttf) format("truetype");
+    src: url(/assets/fonts/europa/EuropaLight.ttf) format("truetype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: Europa;
-    src: url(EuropaBold.e1ea819f5c141e51843d.ttf) format("truetype");
+    src: url(/assets/fonts/europa/EuropaBold.ttf) format("truetype");
     font-weight: 700;
     font-style: normal
 }
