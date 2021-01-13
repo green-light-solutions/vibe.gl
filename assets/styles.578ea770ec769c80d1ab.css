@@ -2724,21 +2724,21 @@ button.toast-close-button {
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(/assets/fonts/proxima/ProximaNovaLight.otf) format("opentype");
+    src: url(/assets/fonts/proxima-nova/ProximaNovaLight.otf) format("opentype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(/assets/fonts/proxima/ProximaNovaSemibold.otf) format("opentype");
+    src: url(/assets/fonts/proxima-nova/ProximaNovaSemibold.otf) format("opentype");
     font-weight: 600;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url(/assets/fonts/proxima/ProximaNovaBold.otf) format("opentype");
+    src: url(/assets/fonts/proxima-nova/ProximaNovaBold.otf) format("opentype");
     font-weight: 700;
     font-style: normal
 }
