@@ -15047,8 +15047,8 @@ form .ng-select.ng-select-multiple .ng-select-container .ng-value-container .ng-
     font-family: 'Font Awesome 5 Pro';
     font-style: normal;
     font-weight: 400;
-    src: url(fa-regular-400.e0cce88451ef6b768086.eot);
-    src: url(fa-regular-400.e0cce88451ef6b768086.eot?#iefix) format("embedded-opentype"), url(fa-regular-400.f8836cf0560088131e11.woff2) format("woff2"), url(fa-regular-400.7667046c1f29125f4b17.woff) format("woff"), url(fa-regular-400.6f1e8cb58b16bd42650f.ttf) format("truetype"), url(fa-regular-400.45f938a4e0f2695c3d45.svg#fontawesome) format("svg")
+    src: url(/assets/font-awesome/webfonts/fa-regular-400.eot);
+    src: url(/assets/font-awesome/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(/assets/font-awesome/webfonts/fa-regular-400.woff2) format("woff2"), url(/assets/font-awesome/webfonts/fa-regular-400.woff) format("woff"), url(/assets/font-awesome/webfonts/fa-regular-400.ttf) format("truetype"), url(/assets/font-awesome/webfonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .far {
@@ -15064,8 +15064,8 @@ form .ng-select.ng-select-multiple .ng-select-container .ng-value-container .ng-
     font-family: 'Font Awesome 5 Pro';
     font-style: normal;
     font-weight: 900;
-    src: url(fa-solid-900.2d8e6c78a2a1ab301c6c.eot);
-    src: url(fa-solid-900.2d8e6c78a2a1ab301c6c.eot?#iefix) format("embedded-opentype"), url(fa-solid-900.b0c47f860f3e9226d43f.woff2) format("woff2"), url(fa-solid-900.d08958dc7fb4dbd097f8.woff) format("woff"), url(fa-solid-900.acfcc98912c1b8439c5b.ttf) format("truetype"), url(fa-solid-900.8310fbbe0906c7565605.svg#fontawesome) format("svg")
+    src: url(/assets/font-awesome/webfonts/fa-solid-900.eot);
+    src: url(/assets/font-awesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(/assets/font-awesome/webfonts/fa-solid-900.woff2) format("woff2"), url(/assets/font-awesome/webfonts/fa-solid-900.woff) format("woff"), url(/assets/font-awesome/webfonts/fa-solid-900.ttf) format("truetype"), url(/assets/font-awesome/webfonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa, .fas {
@@ -15081,8 +15081,8 @@ form .ng-select.ng-select-multiple .ng-select-container .ng-value-container .ng-
     font-family: 'Font Awesome 5 Pro';
     font-style: normal;
     font-weight: 300;
-    src: url(fa-light-300.b21a41c0b1d75d28c6d8.eot);
-    src: url(fa-light-300.b21a41c0b1d75d28c6d8.eot?#iefix) format("embedded-opentype"), url(fa-light-300.07f8fc945185929522d4.woff2) format("woff2"), url(fa-light-300.2c05ac59e5175c1db182.woff) format("woff"), url(fa-light-300.bb83110ba1481ed49514.ttf) format("truetype"), url(fa-light-300.32f7692a8e165d85b68e.svg#fontawesome) format("svg")
+    src: url(/assets/font-awesome/webfonts/fa-light-300.eot);
+    src: url(/assets/font-awesome/webfonts/fa-light-300.eot?#iefix) format("embedded-opentype"), url(/assets/font-awesome/webfonts/fa-light-300.woff2) format("woff2"), url(/assets/font-awesome/webfonts/fa-light-300.woff) format("woff"), url(/assets/font-awesome/webfonts/fa-light-300.ttf) format("truetype"), url(/assets/font-awesome/webfonts/fa-light-300.svg#fontawesome) format("svg")
 }
 
 .fal {
@@ -15098,8 +15098,8 @@ form .ng-select.ng-select-multiple .ng-select-container .ng-value-container .ng-
     font-family: 'Font Awesome 5 Brands';
     font-style: normal;
     font-weight: 400;
-    src: url(fa-brands-400.3b5d1c636187f0a4e31f.eot);
-    src: url(fa-brands-400.3b5d1c636187f0a4e31f.eot?#iefix) format("embedded-opentype"), url(fa-brands-400.901a61b3357e8f033c81.woff2) format("woff2"), url(fa-brands-400.ea57ba2cdc4147fa65b3.woff) format("woff"), url(fa-brands-400.49f251da3e41e55a926a.ttf) format("truetype"), url(fa-brands-400.a6f68f08bc61fe12f702.svg#fontawesome) format("svg")
+    src: url(/assets/font-awesome/webfonts/fa-brands-400.eot);
+    src: url(/assets/font-awesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(/assets/font-awesome/webfonts/fa-brands-400.woff2) format("woff2"), url(/assets/font-awesome/webfonts/fa-brands-400.woff) format("woff"), url(/assets/font-awesome/webfonts/fa-brands-400.ttf) format("truetype"), url(/assets/font-awesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
